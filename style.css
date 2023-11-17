@@ -406,8 +406,8 @@ html {
     display: flex;
 }
 .img-icon { 
-   height: 30px;
-   width: 30px;
+   height: 40px;
+   width: 40px;
    vertical-align: middle;
    max-width: 48px;
    margin-right: 10px;
@@ -417,6 +417,7 @@ html {
     list-style: none;
     padding-bottom: 30px;
     line-height: 1.6;
+    font-style: italic;
 }
 .content-box { 
     padding: 24px;
