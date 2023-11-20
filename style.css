@@ -72,7 +72,7 @@ html {
     left: 0;
     right: 0;
     height: 47px;
-    background-color: #000;
+    background-color: orangered;
     z-index: 1;
 
 }
@@ -138,14 +138,14 @@ html {
     /* background: #333; */
     margin-top: 47px;
     padding-top: 50%;
-    background: url('img/bg1.jpg') top center / cover no-repeat ;
+    background: url('img/anhlop.jpg') top center / cover no-repeat ;
     position: relative;
 }
 
 #slider .text-cotent { 
     position: absolute;
     bottom: 47px;
-    color: #fff;
+    color: rgb(47, 51, 73);
     width: 100%;
     text-align: center;
 
@@ -188,7 +188,7 @@ html {
 
 #header .search-btn:hover { 
     color: #fff;
-    background-color: #f44336;
+    background-color: teal;
     cursor: pointer;
 }
 #header .mobile-menu-btn:hover { 
@@ -259,7 +259,7 @@ html {
 
 /*  Tour section  */
 .tour-section { 
-    background: #000;
+    background: rgb(254, 243, 223);
 }
 
 .ticket-list { 
@@ -401,7 +401,7 @@ html {
 }
 /* BOSUNG */
 .member-list { 
-    background: rgb(207, 88, 8);
+    background: rgb(230, 235, 228);
     height: auto;
     display: flex;
 }
